@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+today is monday 
+tomkorrow is tuesdAY
+=======
 Thursday
 Friday
+>>>>>>> origin/main
